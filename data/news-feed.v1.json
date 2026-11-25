@@ -1,0 +1,300 @@
+{
+  "version": "1.0.0",
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-25T06:02:05.654Z",
+  "itemCount": 14,
+  "checksum": "f8bd09313a417d625d05aa29d81a874e6655c74ffe5baf676aa52bab1378d55c",
+  "items": [
+    {
+      "id": "news_d22adc5a036881c7",
+      "publishedAt": "2026-11-24T12:19:32.000Z",
+      "fetchedAt": "2026-11-25T06:02:05.654Z",
+      "sourceName": "The PIE News",
+      "sourceUrl": "https://thepienews.com/us-cpt-ruling-welcomed-but-concerns-over-student-confidence-remain/",
+      "trustTier": "verified-press",
+      "policyStatus": "proposed",
+      "severity": "info",
+      "countries": [
+        "GLOBAL"
+      ],
+      "category": "admissions-policy",
+      "affectedSchoolIds": [],
+      "titleVi": "[Quốc tế · Tuyển sinh Đại học] US CPT ruling welcomed, but concerns over student confidence remain",
+      "summaryVi": "Cập nhật từ The PIE News: International education stakeholders have welcomed a US court ruling temporarily blocking restrictions on curricular practical training (CPT), but warn that uncertainty remains for international students. The post US CPT ruling welcomed, but concerns over student confidence remain appeared first on The PIE News .",
+      "actionableImpactVi": "Nội dung đang ở giai đoạn dự thảo/thảo luận chính sách — tiếp tục theo dõi định kỳ, chưa cần thay đổi gấp lộ trình nộp đơn hiện tại.",
+      "parentSummaryVi": "Tin cập nhật từ The PIE News (Quốc tế) đang ở mức đề xuất/lấy ý kiến, gia đình chỉ cần theo dõi thêm và giữ vững kế hoạch hiện tại."
+    },
+    {
+      "id": "news_2fddafbf0833729d",
+      "publishedAt": "2026-11-24T10:30:56.000Z",
+      "fetchedAt": "2026-11-25T06:02:05.654Z",
+      "sourceName": "The PIE News",
+      "sourceUrl": "https://thepienews.com/11-charts-that-explain-the-latest-us-international-student-data/",
+      "trustTier": "verified-press",
+      "policyStatus": "proposed",
+      "severity": "info",
+      "countries": [
+        "GLOBAL"
+      ],
+      "category": "admissions-policy",
+      "affectedSchoolIds": [],
+      "titleVi": "[Quốc tế · Tuyển sinh Đại học] 11 charts that explain the latest US international student data",
+      "summaryVi": "Cập nhật từ The PIE News: New international enrolments in the US fell 17.7% in 2025/26, yet eight countries sent record numbers of students. The PIE breaks down the Open Doors 2026 figures, including where Americans studied abroad. The post 11 charts that explain the latest US international student data appeared first on The PIE News .",
+      "actionableImpactVi": "Nội dung đang ở giai đoạn dự thảo/thảo luận chính sách — tiếp tục theo dõi định kỳ, chưa cần thay đổi gấp lộ trình nộp đơn hiện tại.",
+      "parentSummaryVi": "Tin cập nhật từ The PIE News (Quốc tế) đang ở mức đề xuất/lấy ý kiến, gia đình chỉ cần theo dõi thêm và giữ vững kế hoạch hiện tại."
+    },
+    {
+      "id": "news_tx_tuition_waiver_2026",
+      "publishedAt": "2026-11-20T14:00:00.000Z",
+      "fetchedAt": "2026-11-24T20:00:00.000Z",
+      "sourceName": "Texas A&M Financial Aid",
+      "sourceUrl": "https://aggie.tamu.edu/financial-aid/types-of-aid/scholarships/competitive-scholarship-non-resident-tuition-waiver",
+      "trustTier": "edu-institution",
+      "policyStatus": "enacted",
+      "severity": "high",
+      "countries": [
+        "US"
+      ],
+      "category": "tuition-aid",
+      "affectedSchoolIds": [
+        "tamu",
+        "utaustin",
+        "utarlington",
+        "unt"
+      ],
+      "titleVi": "Quy chế Miễn chênh lệch học phí tiểu bang Texas (Non-Resident Tuition Waiver) cho học bổng cạnh tranh",
+      "summaryVi": "Sinh viên quốc tế đạt học bổng cạnh tranh đủ điều kiện (thường từ 1.000 – 4.000 USD/năm tùy trường như Texas A&M, UT Arlington, UNT) được xét hưởng mức học phí nội bang (In-State Tuition), giúp giảm 15.000 – 22.000 USD/năm học phí công lập Texas.",
+      "actionableImpactVi": "Ưu tiên nộp hồ sơ sớm (Early Action trước 15/10 – 01/12) kèm đơn học bổng trường/khoa để kịp quỹ xét Competitive Scholarship Waiver.",
+      "parentSummaryVi": "Cơ hội giảm gần một nửa học phí công lập tại bang Texas nếu con đạt mức học bổng khuyến tài đầu vào của trường."
+    },
+    {
+      "id": "news_e045de8badbde4e4",
+      "publishedAt": "2026-11-20T10:48:17.000Z",
+      "fetchedAt": "2026-11-25T06:02:05.654Z",
+      "sourceName": "The PIE News",
+      "sourceUrl": "https://thepienews.com/a-one-year-decline-is-not-a-one-year-problem-americas-shrinking-talent-pipeline/",
+      "trustTier": "verified-press",
+      "policyStatus": "proposed",
+      "severity": "info",
+      "countries": [
+        "GLOBAL"
+      ],
+      "category": "admissions-policy",
+      "affectedSchoolIds": [],
+      "titleVi": "[Quốc tế · Tuyển sinh Đại học] “A one-year decline is not a one-year problem”: America’s shrinking talent pipeline",
+      "summaryVi": "Cập nhật từ The PIE News: Further drops in America’s international student population are set to cost the US economy $2.4bn in lost revenue this year, with analysts warning of the long-term consequences of a shrinking pipeline of international talent. The post “A one-year decline is not a one-year problem”: America’s shrinking talent pipeline appeared first on The PIE News .",
+      "actionableImpactVi": "Nội dung đang ở giai đoạn dự thảo/thảo luận chính sách — tiếp tục theo dõi định kỳ, chưa cần thay đổi gấp lộ trình nộp đơn hiện tại.",
+      "parentSummaryVi": "Tin cập nhật từ The PIE News (Quốc tế) đang ở mức đề xuất/lấy ý kiến, gia đình chỉ cần theo dõi thêm và giữ vững kế hoạch hiện tại."
+    },
+    {
+      "id": "news_us_stem_opt_online_filing",
+      "publishedAt": "2026-11-18T16:30:00.000Z",
+      "fetchedAt": "2026-11-24T20:00:00.000Z",
+      "sourceName": "USCIS Official",
+      "sourceUrl": "https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-opt-for-f-1-students",
+      "trustTier": "official-gov",
+      "policyStatus": "enacted",
+      "severity": "high",
+      "countries": [
+        "US"
+      ],
+      "category": "postgrad-work",
+      "affectedSchoolIds": [],
+      "titleVi": "USCIS chuẩn hóa quy trình nộp đơn I-765 trực tuyến cho F-1 OPT & gia hạn STEM OPT 24 tháng",
+      "summaryVi": "Cơ quan Di trú Mỹ (USCIS) duy trì cổng nộp trực tuyến mẫu đơn I-765 cho sinh viên F-1 xin phép làm việc OPT sau tốt nghiệp (tối đa 90 ngày trước ngày hoàn tất chương trình) và gia hạn 24 tháng đối với các mã ngành CIP thuộc danh mục DHS STEM.",
+      "actionableImpactVi": "Khi chọn chuyên ngành Kinh tế định lượng (Econometrics) hoặc Khoa học Máy tính/Kỹ thuật tại Mỹ, kiểm tra kỹ mã CIP STEM để giữ quyền ở lại làm việc tối đa 36 tháng.",
+      "parentSummaryVi": "Quy định chính thức giúp con học ngành STEM tại Mỹ được phép ở lại thực tập và làm việc hợp pháp lên đến 3 năm sau tốt nghiệp."
+    },
+    {
+      "id": "news_us_visa_screening_proposed",
+      "publishedAt": "2026-11-16T09:15:00.000Z",
+      "fetchedAt": "2026-11-24T20:00:00.000Z",
+      "sourceName": "Inside Higher Ed",
+      "sourceUrl": "https://www.insidehighered.com/news/global/international-students-us",
+      "trustTier": "verified-press",
+      "policyStatus": "proposed",
+      "severity": "medium",
+      "countries": [
+        "US"
+      ],
+      "category": "visa-immigration",
+      "affectedSchoolIds": [],
+      "titleVi": "Đề xuất mở rộng rà soát hồ sơ hành chính khi xét thị thực du học F-1/J-1 mùa cao điểm",
+      "summaryVi": "Một số đề xuất chính sách hành chính đang được thảo luận nhằm tăng cường khâu đối chiếu thông tin trên mẫu DS-160 cho các nhóm ngành công nghệ nhạy cảm. Hiện mới ở bước kiến nghị và lấy ý kiến, chưa thay đổi quy trình phỏng vấn lãnh sự hiện hành.",
+      "actionableImpactVi": "Chưa có thay đổi pháp lý ngay lúc này; chỉ cần lưu ý khai báo trung thực tài khoản mạng xã hội trên DS-160 và đặt lịch phỏng vấn sớm ngay khi nhận I-20.",
+      "parentSummaryVi": "Tin đang ở mức dự thảo thảo luận trên báo chí giáo dục Mỹ, chưa áp dụng — gia đình không cần lo lắng hay thay đổi kế hoạch nộp đơn."
+    },
+    {
+      "id": "news_us_sat_act_requirement_wave",
+      "publishedAt": "2026-11-14T12:00:00.000Z",
+      "fetchedAt": "2026-11-24T20:00:00.000Z",
+      "sourceName": "UT Austin Admissions",
+      "sourceUrl": "https://admissions.utexas.edu/apply/freshman-admission/standardized-testing/",
+      "trustTier": "edu-institution",
+      "policyStatus": "enacted",
+      "severity": "high",
+      "countries": [
+        "US"
+      ],
+      "category": "test-policy",
+      "affectedSchoolIds": [
+        "utaustin",
+        "purdue",
+        "mit",
+        "harvard"
+      ],
+      "titleVi": "Nhóm đại học hàng đầu Mỹ bắt buộc nộp lại điểm chuẩn hóa SAT/ACT cho kỳ tuyển sinh Cử nhân",
+      "summaryVi": "UT Austin, Purdue, MIT, Harvard cùng nhiều đại học nghiên cứu hàng đầu tại Mỹ đã chính thức khép lại giai đoạn Test-Optional và yêu cầu ứng viên bậc Đại học bắt buộc gửi điểm SAT hoặc ACT chính thức từ đơn vị khảo thí.",
+      "actionableImpactVi": "Đảm bảo hoàn tất kỳ thi Digital SAT chậm nhất vào tháng 8–10 năm lớp 12 và đặt lệnh gửi điểm điện tử từ College Board trước hạn Early Action 2 tuần.",
+      "parentSummaryVi": "Các trường đại học lớn ở Mỹ đã yêu cầu nộp điểm SAT trở lại thay vì miễn nộp như giai đoạn dịch COVID-19."
+    },
+    {
+      "id": "news_au_visa_500_gs_financial_req",
+      "publishedAt": "2026-11-12T06:00:00.000Z",
+      "fetchedAt": "2026-11-24T20:00:00.000Z",
+      "sourceName": "Australian Dept of Home Affairs",
+      "sourceUrl": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500",
+      "trustTier": "official-gov",
+      "policyStatus": "enacted",
+      "severity": "high",
+      "countries": [
+        "AU"
+      ],
+      "category": "visa-immigration",
+      "affectedSchoolIds": [],
+      "titleVi": "Bộ Nội vụ Úc áp dụng chuẩn Genuine Student (GS) và định mức chứng minh tài chính Visa 500",
+      "summaryVi": "Ứng viên xin thị thực du học Úc (Subclass 500) phải trả lời bộ câu hỏi trọng tâm Genuine Student thay cho bài luận GTE cũ, đồng thời đáp ứng ngưỡng chứng minh sinh hoạt phí tối thiểu và điểm tiếng Anh IELTS nâng cao theo quy định hiện hành.",
+      "actionableImpactVi": "Chuẩn bị sẵn câu trả lời GS gắn chặt lộ trình học tập với cơ hội nghề nghiệp và rà soát sổ tiết kiệm/nguồn thu nhập gia đình tối thiểu 3–6 tháng trước khi xin CoE.",
+      "parentSummaryVi": "Chính phủ Úc đã chính thức nâng mức chứng minh tài chính và yêu cầu giải trình rõ mục tiêu học tập thực chất khi xin visa."
+    },
+    {
+      "id": "news_au_intl_cap_debate_proposed",
+      "publishedAt": "2026-11-09T08:45:00.000Z",
+      "fetchedAt": "2026-11-24T20:00:00.000Z",
+      "sourceName": "The PIE News",
+      "sourceUrl": "https://thepienews.com/tag/australia/",
+      "trustTier": "verified-press",
+      "policyStatus": "proposed",
+      "severity": "medium",
+      "countries": [
+        "AU"
+      ],
+      "category": "admissions-policy",
+      "affectedSchoolIds": [
+        "melbourne",
+        "sydney",
+        "unsw",
+        "monash",
+        "uq"
+      ],
+      "titleVi": "Thảo luận hạn ngạch phân bổ sinh viên quốc tế mới tại nhóm đại học Go8 Úc",
+      "summaryVi": "Chính phủ và Thượng viện Úc tiếp tục tranh luận cơ chế điều tiết chỉ tiêu tuyển mới (National Planning Level / Ministerial Direction) đối với các trường đại học lớn thuộc nhóm Group of Eight (Melbourne, Sydney, UNSW, Monash, UQ).",
+      "actionableImpactVi": "Nếu nhắm nhóm Go8 Úc, nên nộp học bạ + IELTS lấy Conditional Offer sớm và chấp nhận thư mời (CoE) ngay khi đủ điều kiện để tránh dồn cục cuối kỳ.",
+      "parentSummaryVi": "Dự thảo giới hạn chỉ tiêu sinh viên quốc tế tại Úc vẫn đang điều chỉnh tại Quốc hội; nộp hồ sơ sớm giúp con giữ chỗ an toàn."
+    },
+    {
+      "id": "news_ca_study_permit_pal_enacted",
+      "publishedAt": "2026-11-06T15:20:00.000Z",
+      "fetchedAt": "2026-11-24T20:00:00.000Z",
+      "sourceName": "IRCC Canada",
+      "sourceUrl": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-permits/apply.html",
+      "trustTier": "official-gov",
+      "policyStatus": "enacted",
+      "severity": "medium",
+      "countries": [
+        "CA"
+      ],
+      "category": "visa-immigration",
+      "affectedSchoolIds": [],
+      "titleVi": "IRCC yêu cầu thư xác nhận tỉnh bang (PAL/TAL) bắt buộc trong hồ sơ Study Permit Canada",
+      "summaryVi": "Bộ Di trú, Tị nạn và Quốc tịch Canada (IRCC) yêu cầu hầu hết hồ sơ xin Study Permit bậc Đại học phải đính kèm Provincial/Territorial Attestation Letter (PAL/TAL) do tỉnh bang cấp thông qua trường đại học sau khi đóng đặt cọc học phí.",
+      "actionableImpactVi": "Tính thêm 2–4 tuần chờ trường xin cấp PAL sau khi đóng tiền đặt cọc nhập học trước khi có thể nộp bộ hồ sơ Study Permit hoàn chỉnh.",
+      "parentSummaryVi": "Thủ tục visa du học Canada chính thức có thêm giấy xác nhận chỉ tiêu tỉnh bang do trường xin giúp sau khi đóng cọc."
+    },
+    {
+      "id": "news_de_sperrkonto_tum_tuition",
+      "publishedAt": "2026-11-04T11:00:00.000Z",
+      "fetchedAt": "2026-11-24T20:00:00.000Z",
+      "sourceName": "DAAD Germany",
+      "sourceUrl": "https://www.daad.de/en/study-and-research-in-germany/plan-your-studies/costs-of-education-and-living/",
+      "trustTier": "official-gov",
+      "policyStatus": "enacted",
+      "severity": "high",
+      "countries": [
+        "DE",
+        "EU"
+      ],
+      "category": "tuition-aid",
+      "affectedSchoolIds": [
+        "tum",
+        "hmmuc"
+      ],
+      "titleVi": "DAAD cập nhật định mức tài khoản phong tỏa Đức (11.904 EUR/năm) và chính sách học phí tại TUM",
+      "summaryVi": "Du học sinh ngoài EU xin thị thực Đức cần mở tài khoản phong tỏa (Sperrkonto) tối thiểu 992 EUR/tháng (11.904 EUR/năm). Riêng Đại học Kỹ thuật München (TUM) áp dụng học phí cho sinh viên quốc tế ngoài EU từ 2.000–3.000 EUR/học kỳ bậc Cử nhân kèm chính sách miễn giảm theo thành tích.",
+      "actionableImpactVi": "Cộng thêm khoản học phí TUM vào bảng dự toán tài chính Châu Âu hoặc cân nhắc các trường công lập miễn học phí khác tại Đức và làm thủ tục thẩm tra APS đúng hạn.",
+      "parentSummaryVi": "Đi Đức cần chuẩn bị sổ phong tỏa sinh hoạt phí 11.904 EUR/năm và lưu ý riêng trường TUM tại Munich có thu học phí với sinh viên quốc tế."
+    },
+    {
+      "id": "news_nl_numerus_fixus_jan15_deadline",
+      "publishedAt": "2026-11-02T10:00:00.000Z",
+      "fetchedAt": "2026-11-24T20:00:00.000Z",
+      "sourceName": "TU Delft Admissions",
+      "sourceUrl": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements",
+      "trustTier": "edu-institution",
+      "policyStatus": "deadline-alert",
+      "severity": "high",
+      "countries": [
+        "NL",
+        "EU"
+      ],
+      "category": "admissions-policy",
+      "affectedSchoolIds": [
+        "tudelft"
+      ],
+      "titleVi": "Nhắc mốc hạn cứng 15/01 trên Studielink cho khối ngành giới hạn chỉ tiêu Numerus Fixus Hà Lan",
+      "summaryVi": "Các ngành kỹ thuật mũi nhọn thuộc diện Numerus Fixus tại TU Delft (Computer Science & Engineering, Aerospace Engineering) khóa cổng đăng ký sớm vào ngày 15/01 hàng năm (sớm hơn 2,5 tháng so với hạn 01/04 của các ngành thường) kèm bài kiểm tra tuyển chọn riêng.",
+      "actionableImpactVi": "Tạo tài khoản Studielink + Osiaan trước ngày 15/12 và đăng ký tối đa 2 ngành Numerus Fixus trên toàn Hà Lan đúng quy chế.",
+      "parentSummaryVi": "Các ngành Công nghệ thông tin và Hàng không tại đại học top Hà Lan chốt nhận đơn rất sớm vào ngày 15/01 hàng năm."
+    },
+    {
+      "id": "news_global_digital_sat_ap_deadlines",
+      "publishedAt": "2026-10-29T13:30:00.000Z",
+      "fetchedAt": "2026-11-24T20:00:00.000Z",
+      "sourceName": "College Board",
+      "sourceUrl": "https://satsuite.collegeboard.org/sat/registration/international-testing/dates-deadlines",
+      "trustTier": "edu-institution",
+      "policyStatus": "deadline-alert",
+      "severity": "info",
+      "countries": [
+        "GLOBAL",
+        "US",
+        "SG"
+      ],
+      "category": "test-policy",
+      "affectedSchoolIds": [],
+      "titleVi": "Lịch mở cổng đăng ký Digital SAT quốc tế & hạn chót ghi danh kỳ thi AP tháng 5",
+      "summaryVi": "College Board nhắc mốc đăng ký các đợt thi Digital SAT quốc tế (tháng 12, tháng 3, tháng 5, tháng 6) và hạn đăng ký mã phòng thi AP tự do (Exam-Only) tại các trung tâm khảo thí được ủy quyền ở Việt Nam và Singapore.",
+      "actionableImpactVi": "Đăng ký chỗ thi Digital SAT/AP trước hạn chuẩn ít nhất 4–6 tuần vì các điểm thi tại Hà Nội, TP.HCM và Đà Nẵng thường hết chỗ sớm.",
+      "parentSummaryVi": "Gia đình cần chốt lịch đăng ký thi SAT và AP sớm trên trang College Board để tránh hết chỗ thi tại Việt Nam."
+    },
+    {
+      "id": "news_b5e81370292cbd5c",
+      "publishedAt": "2024-08-27T13:06:47.000Z",
+      "fetchedAt": "2026-11-25T06:02:05.654Z",
+      "sourceName": "USCIS Official",
+      "sourceUrl": "https://www.uscis.gov/newsroom/alerts/uscis-updates-guidance-for-fm-nonimmigrant-student-classification",
+      "trustTier": "official-gov",
+      "policyStatus": "enacted",
+      "severity": "high",
+      "countries": [
+        "US"
+      ],
+      "category": "postgrad-work",
+      "affectedSchoolIds": [],
+      "titleVi": "[Mỹ · Việc làm sau tốt nghiệp] USCIS Updates Guidance for F/M Nonimmigrant Student Classification",
+      "summaryVi": "Cập nhật từ USCIS Official: We are updating guidance in the&nbsp;USCIS Policy Manual regarding when students may be eligible for optional practical training (OPT) extensions for Science, Technology, Engineering, and Mathematics (STEM) fields.",
+      "actionableImpactVi": "Đối chiếu hướng dẫn chính thức mới nhất từ cơ quan di trú khi chuẩn bị hồ sơ thị thực và kế hoạch thực tập sau tốt nghiệp.",
+      "parentSummaryVi": "Cập nhật chính thức từ USCIS Official về việc làm sau tốt nghiệp tại Mỹ — gia đình bấm link gốc để xem chi tiết mốc áp dụng."
+    }
+  ]
+}

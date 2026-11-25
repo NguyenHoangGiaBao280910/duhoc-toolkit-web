@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/duhoc-toolkit-web/sw.js', { scope: '/duhoc-toolkit-web/' })})}

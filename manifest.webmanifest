@@ -1,0 +1,29 @@
+{
+  "name": "Du Học Toolkit",
+  "short_name": "DuHoc Toolkit",
+  "description": "Công cụ chuẩn bị du học toàn diện 3 giai đoạn: Học lực, Tài chính, Chọn trường, Kỷ luật, Khám phá và Gia đình.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-24T14:24:54.610Z",
+  "dataUrl": "/data/schools.v1.json",
+  "schoolCount": 299,
+  "checksum": "d9e24c5b73155aebbca6322b7e2b71ac94e41655d66bf05ca97a94f9ad638a3d",
+  "bytes": 3057250,
+  "newsDataUrl": "/data/news-feed.v1.json",
+  "newsUpdatedAt": "2026-11-25T06:02:05.654Z",
+  "newsItemCount": 14,
+  "newsChecksum": "f8bd09313a417d625d05aa29d81a874e6655c74ffe5baf676aa52bab1378d55c",
+  "newsBytes": 20017
+}
