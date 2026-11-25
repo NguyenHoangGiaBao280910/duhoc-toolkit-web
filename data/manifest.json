@@ -7,8 +7,8 @@
   "checksum": "d9e24c5b73155aebbca6322b7e2b71ac94e41655d66bf05ca97a94f9ad638a3d",
   "bytes": 3057250,
   "newsDataUrl": "/data/news-feed.v1.json",
-  "newsUpdatedAt": "2026-11-25T06:02:05.654Z",
-  "newsItemCount": 14,
-  "newsChecksum": "f8bd09313a417d625d05aa29d81a874e6655c74ffe5baf676aa52bab1378d55c",
-  "newsBytes": 20017
+  "newsUpdatedAt": "2026-11-25T21:45:03.491Z",
+  "newsItemCount": 16,
+  "newsChecksum": "82eaf3526cc680e4a428787bc3ca4caf30df530409f8695a66d603b9cf9fc462",
+  "newsBytes": 22806
 }

@@ -1,10 +1,48 @@
 {
   "version": "1.0.0",
   "schemaVersion": 1,
-  "updatedAt": "2026-11-25T06:02:05.654Z",
-  "itemCount": 14,
-  "checksum": "f8bd09313a417d625d05aa29d81a874e6655c74ffe5baf676aa52bab1378d55c",
+  "updatedAt": "2026-11-25T21:45:03.491Z",
+  "itemCount": 16,
+  "checksum": "82eaf3526cc680e4a428787bc3ca4caf30df530409f8695a66d603b9cf9fc462",
   "items": [
+    {
+      "id": "news_13a2e4b7ea2ad307",
+      "publishedAt": "2026-11-25T12:54:01.000Z",
+      "fetchedAt": "2026-11-25T21:45:03.491Z",
+      "sourceName": "The PIE News",
+      "sourceUrl": "https://thepienews.com/push-immigration-minister-to-back-international-students-canadian-mp-urges/",
+      "trustTier": "verified-press",
+      "policyStatus": "proposed",
+      "severity": "info",
+      "countries": [
+        "CA"
+      ],
+      "category": "visa-immigration",
+      "affectedSchoolIds": [],
+      "titleVi": "[Canada · Thị thực & Nhập cảnh] Push immigration minister to back international students, Canadian MP urges",
+      "summaryVi": "Cập nhật từ The PIE News: Canada's parliamentary secretary to the minister of foreign affairs urged the sector to keep pressing the federal government for stronger support for international students, research collaboration and the arts and humanities. The post Push immigration minister to back international students, Canadian MP urges appeared first on The PIE News .",
+      "actionableImpactVi": "Nội dung đang ở giai đoạn dự thảo/thảo luận chính sách — tiếp tục theo dõi định kỳ, chưa cần thay đổi gấp lộ trình nộp đơn hiện tại.",
+      "parentSummaryVi": "Tin cập nhật từ The PIE News (Canada) đang ở mức đề xuất/lấy ý kiến, gia đình chỉ cần theo dõi thêm và giữ vững kế hoạch hiện tại."
+    },
+    {
+      "id": "news_3d9503bf5a0aa77a",
+      "publishedAt": "2026-11-25T12:29:56.000Z",
+      "fetchedAt": "2026-11-25T21:45:03.491Z",
+      "sourceName": "The PIE News",
+      "sourceUrl": "https://thepienews.com/mike-porritt-unilodge-canada/",
+      "trustTier": "verified-press",
+      "policyStatus": "proposed",
+      "severity": "info",
+      "countries": [
+        "CA"
+      ],
+      "category": "test-policy",
+      "affectedSchoolIds": [],
+      "titleVi": "[Canada · Khảo thí chuẩn hóa] Mike Porritt, UniLodge Canada",
+      "summaryVi": "Cập nhật từ The PIE News: This week, The PIE sat down with Mike Porritt, chief development officer at UniLodge Canada, to discuss bringing UniLodge to Canada, the 34-year legacy of a residence-hall dodgeball tournament and why putting students first is good business. The post Mike Porritt, UniLodge Canada appeared first on The PIE News .",
+      "actionableImpactVi": "Nội dung đang ở giai đoạn dự thảo/thảo luận chính sách — tiếp tục theo dõi định kỳ, chưa cần thay đổi gấp lộ trình nộp đơn hiện tại.",
+      "parentSummaryVi": "Tin cập nhật từ The PIE News (Canada) đang ở mức đề xuất/lấy ý kiến, gia đình chỉ cần theo dõi thêm và giữ vững kế hoạch hiện tại."
+    },
     {
       "id": "news_d22adc5a036881c7",
       "publishedAt": "2026-11-24T12:19:32.000Z",
