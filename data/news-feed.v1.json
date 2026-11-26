@@ -1,10 +1,48 @@
 {
   "version": "1.0.0",
   "schemaVersion": 1,
-  "updatedAt": "2026-11-25T21:45:03.491Z",
-  "itemCount": 16,
-  "checksum": "82eaf3526cc680e4a428787bc3ca4caf30df530409f8695a66d603b9cf9fc462",
+  "updatedAt": "2026-11-26T21:35:55.456Z",
+  "itemCount": 18,
+  "checksum": "4d9911aa58c330105af2a3423850876dcbcda8283d876ddfd9836906ce75deaf",
   "items": [
+    {
+      "id": "news_06c2b35659a9ff0f",
+      "publishedAt": "2026-11-26T11:37:12.000Z",
+      "fetchedAt": "2026-11-26T21:35:55.456Z",
+      "sourceName": "The PIE News",
+      "sourceUrl": "https://thepienews.com/australia-faces-challenging-2027-as-early-international-student-figures-emerge/",
+      "trustTier": "verified-press",
+      "policyStatus": "proposed",
+      "severity": "info",
+      "countries": [
+        "AU"
+      ],
+      "category": "visa-immigration",
+      "affectedSchoolIds": [],
+      "titleVi": "[Úc · Thị thực & Nhập cảnh] Australia faces challenging 2027 as early international student figures emerge",
+      "summaryVi": "Cập nhật từ The PIE News: Australia’s international education sector is facing another challenging year in 2027, with early recruitment figures emerging amid ongoing concerns over student visa approvals. The post Australia faces challenging 2027 as early international student figures emerge appeared first on The PIE News .",
+      "actionableImpactVi": "Nội dung đang ở giai đoạn dự thảo/thảo luận chính sách — tiếp tục theo dõi định kỳ, chưa cần thay đổi gấp lộ trình nộp đơn hiện tại.",
+      "parentSummaryVi": "Tin cập nhật từ The PIE News (Úc) đang ở mức đề xuất/lấy ý kiến, gia đình chỉ cần theo dõi thêm và giữ vững kế hoạch hiện tại."
+    },
+    {
+      "id": "news_c7a161acc9e0523f",
+      "publishedAt": "2026-11-26T11:31:49.000Z",
+      "fetchedAt": "2026-11-26T21:35:55.456Z",
+      "sourceName": "The PIE News",
+      "sourceUrl": "https://thepienews.com/iran-looks-to-online-courses-to-recruit-students-in-kenya/",
+      "trustTier": "verified-press",
+      "policyStatus": "proposed",
+      "severity": "info",
+      "countries": [
+        "GLOBAL"
+      ],
+      "category": "admissions-policy",
+      "affectedSchoolIds": [],
+      "titleVi": "[Quốc tế · Tuyển sinh Đại học] Iran looks to online courses to recruit students in Kenya",
+      "summaryVi": "Cập nhật từ The PIE News: Iran aims to attract 320,000 international students, including online learners, as Kenyan universities pursue ties with Iranian counterparts in agriculture and cancer care. The post Iran looks to online courses to recruit students in Kenya appeared first on The PIE News .",
+      "actionableImpactVi": "Nội dung đang ở giai đoạn dự thảo/thảo luận chính sách — tiếp tục theo dõi định kỳ, chưa cần thay đổi gấp lộ trình nộp đơn hiện tại.",
+      "parentSummaryVi": "Tin cập nhật từ The PIE News (Quốc tế) đang ở mức đề xuất/lấy ý kiến, gia đình chỉ cần theo dõi thêm và giữ vững kế hoạch hiện tại."
+    },
     {
       "id": "news_13a2e4b7ea2ad307",
       "publishedAt": "2026-11-25T12:54:01.000Z",
